@@ -3,14 +3,14 @@ title: Feugiat consequat
 content_img_path: images/pic04.jpg
 home_spotlights:
   enabled: true
-  weight: 2
   excerpt: >-
     Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
     mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
   home_img:
+    data_position: top right
     path: images/pic02.jpg
-    data_position: top center
     url: '#'
+  weight: 2
 layout: page
 ---
 
