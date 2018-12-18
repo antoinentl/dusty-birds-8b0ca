@@ -117,10 +117,6 @@ sections:
       quis lorem.
     title: Get in touch
     type: contact
-  - background_style: style2
-    identifier: nouvelle-page
-    section_id: nouvelle-page
-    type: spotlights
 layout: home
 ---
 
