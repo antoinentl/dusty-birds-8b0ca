@@ -117,6 +117,9 @@ sections:
       quis lorem.
     title: Get in touch
     type: contact
+  - section_id: nouvelle-page
+    title: New
+    type: features
 layout: home
 ---
 
